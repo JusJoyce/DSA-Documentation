@@ -36,10 +36,15 @@ EDA involved exploring Data to answer some questions about the Data such as;
 - What are the products on peak sales?
   
 ### Data Analysis
-This is where we include some basic lines of code or Qqueries or even some of the DAX expressions used during analysis
+This is where we include some basic lines of code or queries or even some of the Dax expressions used during analysis
 
-``` SQL
+```SQL
 SELECT A,B,C
-where A > 15
+Where A > 15
 ```
-### My Analysis  
+
+### My Analysis
+![Chart 1](https://github.com/user-attachments/assets/1a5ee7df-8b35-4f8b-9b7c-57e9b64ff896)
+
+
+
