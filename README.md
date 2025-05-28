@@ -30,13 +30,16 @@ The following actions were performed;
 3. Data Cleaning and Formatting
 
 ### Exloring Data Analysis
-EDA involved exploring 
-
+EDA involved exploring Data to answer some questions about the Data such as;
+- What is the overall sales trend
+- Which product are top sellers
+- What are the products on peak sales?
+  
 ### Data Analysis
 This is where we include some basic lines of code or Qqueries or even some of the DAX expressions used during analysis
 
 ``` SQL
 SELECT A,B,C
-where A >15
+where A > 15
 ```
-   
+### My Analysis  
